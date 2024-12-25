@@ -43,12 +43,12 @@ Here are some projects I'm proud of:
    - [Live Demo](#) | [Repository](#)
 
 --- -->
-
+<!--
 ## 📈 GitHub Stats
 ![Vansh Jain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithVansh-Jain&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithVansh-Jain&layout=compact&theme=radical)
 
----
+--->
 
 ## 🤝 Connect With Me
 - 📧 Email: vansh.sj@somaiya.edu
