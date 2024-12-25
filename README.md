@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer in the mak
 ## 🛠️ Tech Stack
 ### Frontend:
 - HTML5, CSS3, JavaScript (ES6+), React
-- Libraries: Redux, Tailwind CSS
+- Libraries: BootStrap,Redux, Tailwind CSS
 
 ### Backend:
 - Node.js, Express.js
